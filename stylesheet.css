@@ -1,0 +1,264 @@
+body {
+    background-color: deepskyblue;
+}
+
+nav {
+    position: fixed;
+    margin-top: -40px;
+    right: 20px;
+}
+
+.nav_button {
+    background-color: deepskyblue;
+    width: 100%;
+}
+
+.button {
+    background-color: deepskyblue;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border: 1px solid white;
+}
+
+a {
+    font-family: Titillium Web;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    font-family: Titillium Web;
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: white;
+    height: 100%;
+}
+
+.doyouhaveanidea {
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+
+.answer_button {
+    background-color: deepskyblue;
+    width: 100%;
+    margin-left: 700px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+.answer {
+    background-color: deepskyblue;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+    margin: 15px;
+    font-size: 30px;
+    border: 1px solid white;
+    text-decoration: none;
+
+}
+
+.answer:hover {
+    background-color: white;
+    height: 100%;
+    text-decoration: none;
+    
+}
+
+h1 {
+    font-family: Titillium Web;
+    color: white;
+    font-size: 100px;
+    font-weight: 900;
+}
+
+.cool {
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+
+.cool p {
+    font-family: Titillium Web;
+    color: white;
+    font-size: 20px;
+    width: 650px;
+}
+
+h2 {
+    font-family: Titillium Web;
+    color: white;
+    font-size: 22px;
+    width: 650px;
+    font-weight: 700;
+}
+
+.aboutme_button {
+    background-color: deepskyblue;
+    width: 100%;
+    margin-left: 700px;
+    padding-top: 100px;
+}
+
+.aboutme {
+    background-color: deepskyblue;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+    margin: 15px;
+    font-size: 20px;
+    border: 1px solid white;
+
+}
+
+.aboutme:hover {
+    background-color: white;
+    height: 100%;
+    
+}
+
+.contact {
+    background-color: deepskyblue;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+    margin: 15px;
+    font-size: 20px;
+    border: 1px solid white;
+
+}
+
+.contact:hover {
+    background-color: white;
+    height: 100%;
+    
+}
+
+
+
+.linkedin_button {
+    background-color: deepskyblue;
+    width: 100%;
+    margin-left: 700px;
+    padding-top: 100px;
+}
+
+.linkedin {
+    background-color: deepskyblue;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+    margin: 15px;
+    font-size: 20px;
+    border: 1px solid white;
+
+}
+
+.linkedin:hover {
+    background-color: white;
+    height: 100%;
+    
+}
+
+img {
+    position: absolute;
+    width: 20%;
+    margin-top: -540px;
+    margin-left: 985px;   
+}
+
+.video {
+    position: relative;
+    left: 300px;
+    margin-top: 150px;
+}
+
+.back_button {
+    position: absolute;
+    background-color: deepskyblue;
+    width: 100%;
+    margin-left: 766px;
+    margin-top: 26px;
+}
+
+.back {
+    background-color: deepskyblue;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+    margin: 15px;
+    font-size: 20px;
+    border: 1px solid white;
+
+}
+
+.back:hover {
+    background-color: white;
+    height: 100%;
+    
+}
+
+.submit_button {
+    position: absolute;
+    background-color: deepskyblue;
+    width: 100%;
+    margin-left: 477px;
+    margin-top: 40px;
+}
+
+.submit {
+    background-color: deepskyblue;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0px;
+    margin: 15px;
+    font-size: 20px;
+    border: 1px solid white;
+}
+
+.submit:hover {
+    background-color: white;
+    height: 100%;
+    
+}
+
+form {
+    font-family: Titillium Web;
+    color: white;
+    font-size: 16px;
+    margin-left: 300px;
+    padding-top: 120px;
+    width: 100%;
+}
+
+input {
+    font-family: Titillium Web;
+    color: deepskyblue;
+}
